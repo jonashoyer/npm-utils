@@ -1,0 +1,7 @@
+{
+  "name": "npm-utils",
+  "version": "1.0.0",
+  "bin": {
+    "clean-modules": "bin/clean-modules.js"
+  }
+}
